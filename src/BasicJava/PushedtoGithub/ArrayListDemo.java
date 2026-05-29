@@ -1,4 +1,4 @@
-package BasicJava.ClonetoGithub;
+package BasicJava.PushedtoGithub;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
